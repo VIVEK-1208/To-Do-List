@@ -11,20 +11,20 @@ A simple and elegant **To-Do List** web application that allows users to add, ch
 
 ## Demo
 
-![App Screenshot](IMAGES/icon.png)
+![App Screenshot](IMAGES/Output.png)
 
 ## Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YOUR-USERNAME/your-repo-name.git
+    git clone https://github.com/VIVEK-1208/To-Do-List.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo-name
+    cd To-Do List
     ```
 
 3. Open `index.html` in your browser to start using the app.
@@ -40,22 +40,6 @@ A simple and elegant **To-Do List** web application that allows users to add, ch
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-
-## Usage
-
-1. Open the app.
-2. Type a task in the input box and either press the **ADD** button or press the **Enter** key to add the task.
-3. Click on a task to mark it as completed.
-4. Click the **×** button next to any task to remove it.
-5. Your tasks will be saved in your browser's local storage, so they will remain even if you refresh the page.
-
-## Screenshot
-
-![To-Do List Screenshot](IMAGES/todo-screenshot.png)
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Credits
 
