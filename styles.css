@@ -7,7 +7,7 @@
 /* main-page */
 .container{
     width: 100%;
-    min-height: 100vh;
+    min-height: 80vh;
     background: linear-gradient(135deg, #3a62a8, #2d064f);
     padding: 10px;
 }
