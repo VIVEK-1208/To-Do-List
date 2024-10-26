@@ -12,6 +12,7 @@ A simple and elegant **To-Do List** web application that allows users to add, ch
 ## Demo
 
 You can try out the application here: [Live Demo Link](https://vivek-1208.github.io/To-Do-List/)
+
 ![App Screenshot](IMAGES/Output.png)
 
 ## Installation
